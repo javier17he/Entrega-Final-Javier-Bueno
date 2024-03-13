@@ -1,0 +1,26 @@
+.Logo{
+	width: 80px;
+	border-radius: 20%;
+
+}
+.cabecera {
+	background-color: cornsilk;
+	position: sticky;
+	top: 0px;
+}
+
+.menu {
+	font-size: 0;
+	list-style: none;
+}
+
+.menu li {
+	display: inline-block;
+	width: 15%;
+	position: relative;
+	font-size: 2rem;
+}
+.carousel-item{
+	width: 100%;
+    height: 500px;
+}
