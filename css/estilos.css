@@ -127,9 +127,11 @@ i{
 .pd{
 	display: flex;
 	justify-content: center;
+	padding-bottom: 50px;
 }
 .at{
 	margin-left: 25px;
+	padding: auto;
 }
 .texS{
 	display: flex;
